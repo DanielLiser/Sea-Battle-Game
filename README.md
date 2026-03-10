@@ -32,8 +32,8 @@ To run the project locally, you need to start both the Python server and the Uni
    ```bash
    python server.py
 
-**The server will start listening for incoming connections.
-**
+**The server will start listening for incoming connections.**
+
 2. Starting the Game (Frontend - Unity)
 Open the project in Unity.
 
