@@ -1,0 +1,14 @@
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\bin\Debug\net8.0\HaganaSimulator.exe
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\bin\Debug\net8.0\HaganaSimulator.deps.json
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\bin\Debug\net8.0\HaganaSimulator.runtimeconfig.json
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\bin\Debug\net8.0\HaganaSimulator.dll
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\bin\Debug\net8.0\HaganaSimulator.pdb
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\obj\Debug\net8.0\HaganaSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\obj\Debug\net8.0\HaganaSimulator.AssemblyInfoInputs.cache
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\obj\Debug\net8.0\HaganaSimulator.AssemblyInfo.cs
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\obj\Debug\net8.0\HaganaSimulator.csproj.CoreCompileInputs.cache
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\obj\Debug\net8.0\HaganaSimulator.dll
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\obj\Debug\net8.0\refint\HaganaSimulator.dll
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\obj\Debug\net8.0\HaganaSimulator.pdb
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\obj\Debug\net8.0\HaganaSimulator.genruntimeconfig.cache
+C:\Users\ldani\Desktop\hagana\HaganaSimulator\HaganaSimulator\obj\Debug\net8.0\ref\HaganaSimulator.dll
