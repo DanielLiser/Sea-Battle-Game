@@ -1,4 +1,4 @@
-# 🏴‍☠️ Pirate Sea Battle - Multiplayer Tactical Game
+# 🏴‍☠️ Sea Battle - Multiplayer Tactical Game
 
 A multiplayer turn-based strategy game built with a Unity (C#) client and a Python Sockets server. 
 
